@@ -1,1 +1,1 @@
-fname = input("Enter file name: ")
+fname input("Enter file name: ")
