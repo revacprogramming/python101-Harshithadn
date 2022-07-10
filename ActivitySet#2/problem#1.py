@@ -1,12 +1,11 @@
 
 
 def add(a, b):
-    return  # ...
+    return 
 
 
 def main():
-    a = input  # ...
-    b = input  # ...
+    a = input 
+    b = input  
 
-    c = add(a, b)
-    
+    c = add(a, b) 
